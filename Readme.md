@@ -4,6 +4,13 @@
 
 🎲Here the players are introduced to various ayurvedic plants and its uses instead of the conventional city names in the monopoly game.
 
+🎲Done by:
+
+👧🏻 [Mahima A](https://github.com/Mahima-Anand)
+👧🏻 [Mahashruthi KB](https://github.com/maha-13-kb)
+👧🏻 [Ritika S](http://www.linkedin.com/in/ritikasatheesh)
+👧🏻 [Vandana A](https://github.com/Vandana-A)
+
 🎲The interactive result page is shown below :
 
 ![This is an image](https://github.com/Mahima-Anand/TOYCATHON---VEDAYUR-BOARD-GAME/blob/main/OUTPUT/TOY.png)
