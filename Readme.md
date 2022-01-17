@@ -8,7 +8,7 @@
 
 👧🏻 [Mahima A](https://github.com/Mahima-Anand)
 👧🏻 [Mahashruthi KB](https://github.com/maha-13-kb)
-👧🏻 [Ritika S](http://www.linkedin.com/in/ritikasatheesh)
+👧🏻 [Ritika S](https://github.com/Ritika-s-26)
 👧🏻 [Vandana A](https://github.com/Vandana-A)
 
 🎲The interactive result page is shown below :
